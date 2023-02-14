@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
-Report report = new Report()
-
+Report report = new Report(new TelegramSender());
+report.Send();
 
 
 public class Report

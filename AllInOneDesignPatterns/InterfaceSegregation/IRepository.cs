@@ -8,7 +8,6 @@
         void Create(T item);
         void Update(T item);
 
-        IList<T> SearchByName(string name);
-        IList<T> SearchByPrice(double price);
+      
     }
 }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace InterfaceSegregation
 {
-    internal interface ICategoryRepository
+    public interface ICategoryRepository : IRepository<Category>
     {
     }
 }
