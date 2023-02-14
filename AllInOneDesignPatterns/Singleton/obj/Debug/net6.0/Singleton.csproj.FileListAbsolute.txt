@@ -1,0 +1,15 @@
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\Singleton\bin\Debug\net6.0\Singleton.exe
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\Singleton\bin\Debug\net6.0\Singleton.deps.json
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\Singleton\bin\Debug\net6.0\Singleton.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\Singleton\bin\Debug\net6.0\Singleton.dll
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\Singleton\bin\Debug\net6.0\Singleton.pdb
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\Singleton\obj\Debug\net6.0\Singleton.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\Singleton\obj\Debug\net6.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\Singleton\obj\Debug\net6.0\Singleton.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\Singleton\obj\Debug\net6.0\Singleton.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\Singleton\obj\Debug\net6.0\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\Singleton\obj\Debug\net6.0\Singleton.dll
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\Singleton\obj\Debug\net6.0\refint\Singleton.dll
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\Singleton\obj\Debug\net6.0\Singleton.pdb
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\Singleton\obj\Debug\net6.0\Singleton.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\Singleton\obj\Debug\net6.0\ref\Singleton.dll
