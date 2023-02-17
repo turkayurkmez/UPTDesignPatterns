@@ -1,0 +1,15 @@
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Behavioral\Command\bin\Debug\net6.0\Command.exe
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Behavioral\Command\bin\Debug\net6.0\Command.deps.json
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Behavioral\Command\bin\Debug\net6.0\Command.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Behavioral\Command\bin\Debug\net6.0\Command.dll
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Behavioral\Command\bin\Debug\net6.0\Command.pdb
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Behavioral\Command\obj\Debug\net6.0\Command.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Behavioral\Command\obj\Debug\net6.0\Command.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Behavioral\Command\obj\Debug\net6.0\Command.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Behavioral\Command\obj\Debug\net6.0\Command.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Behavioral\Command\obj\Debug\net6.0\Command.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Behavioral\Command\obj\Debug\net6.0\Command.dll
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Behavioral\Command\obj\Debug\net6.0\refint\Command.dll
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Behavioral\Command\obj\Debug\net6.0\Command.pdb
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Behavioral\Command\obj\Debug\net6.0\Command.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Behavioral\Command\obj\Debug\net6.0\ref\Command.dll

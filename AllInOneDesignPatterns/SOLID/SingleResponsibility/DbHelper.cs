@@ -5,6 +5,11 @@ namespace SingleResponsibility
     public class DbHelper
     {
         SqlConnection sqlConnection;
+
+        void deneme()
+        {
+
+        }
         public DbHelper(string connectionString)
         {
             sqlConnection = new SqlConnection(connectionString);

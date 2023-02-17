@@ -1,0 +1,17 @@
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Structural\Composite\bin\Debug\net6.0-windows\Composite.exe
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Structural\Composite\bin\Debug\net6.0-windows\Composite.deps.json
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Structural\Composite\bin\Debug\net6.0-windows\Composite.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Structural\Composite\bin\Debug\net6.0-windows\Composite.dll
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Structural\Composite\bin\Debug\net6.0-windows\Composite.pdb
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Structural\Composite\obj\Debug\net6.0-windows\Composite.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Structural\Composite\obj\Debug\net6.0-windows\Composite.Form1.resources
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Structural\Composite\obj\Debug\net6.0-windows\Composite.csproj.GenerateResource.cache
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Structural\Composite\obj\Debug\net6.0-windows\Composite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Structural\Composite\obj\Debug\net6.0-windows\Composite.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Structural\Composite\obj\Debug\net6.0-windows\Composite.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Structural\Composite\obj\Debug\net6.0-windows\Composite.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Structural\Composite\obj\Debug\net6.0-windows\Composite.dll
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Structural\Composite\obj\Debug\net6.0-windows\refint\Composite.dll
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Structural\Composite\obj\Debug\net6.0-windows\Composite.pdb
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Structural\Composite\obj\Debug\net6.0-windows\Composite.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Structural\Composite\obj\Debug\net6.0-windows\ref\Composite.dll

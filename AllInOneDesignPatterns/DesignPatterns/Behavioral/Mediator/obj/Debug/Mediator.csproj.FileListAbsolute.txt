@@ -1,0 +1,23 @@
+E:\YapiKredi\DesignPatterns\Mediator\bin\Debug\Mediator.exe.config
+E:\YapiKredi\DesignPatterns\Mediator\bin\Debug\Mediator.exe
+E:\YapiKredi\DesignPatterns\Mediator\bin\Debug\Mediator.pdb
+E:\YapiKredi\DesignPatterns\Mediator\obj\Debug\Mediator.csprojResolveAssemblyReference.cache
+E:\YapiKredi\DesignPatterns\Mediator\obj\Debug\Mediator.Form1.resources
+E:\YapiKredi\DesignPatterns\Mediator\obj\Debug\Mediator.Properties.Resources.resources
+E:\YapiKredi\DesignPatterns\Mediator\obj\Debug\Mediator.csproj.GenerateResource.Cache
+E:\YapiKredi\DesignPatterns\Mediator\obj\Debug\Mediator.exe
+E:\YapiKredi\DesignPatterns\Mediator\obj\Debug\Mediator.pdb
+E:\Eğitim\Bitmiş Eğitimler\YapiKredi\DesignPatterns\Mediator\bin\Debug\Mediator.exe.config
+E:\Eğitim\Bitmiş Eğitimler\YapiKredi\DesignPatterns\Mediator\obj\Debug\Mediator.exe
+E:\Eğitim\Bitmiş Eğitimler\YapiKredi\DesignPatterns\Mediator\obj\Debug\Mediator.pdb
+C:\Users\turka\source\repos\Kurumsal\Logo\DesignPatterns\AllInOneDesignPatterns\Behavioral\Mediator\bin\Debug\Mediator.exe.config
+C:\Users\turka\source\repos\Kurumsal\Logo\DesignPatterns\AllInOneDesignPatterns\Behavioral\Mediator\bin\Debug\Mediator.exe
+C:\Users\turka\source\repos\Kurumsal\Logo\DesignPatterns\AllInOneDesignPatterns\Behavioral\Mediator\bin\Debug\Mediator.pdb
+C:\Users\turka\source\repos\Kurumsal\Logo\DesignPatterns\AllInOneDesignPatterns\Behavioral\Mediator\obj\Debug\Mediator.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Logo\DesignPatterns\AllInOneDesignPatterns\Behavioral\Mediator\obj\Debug\Mediator.csproj.SuggestedBindingRedirects.cache
+C:\Users\turka\source\repos\Kurumsal\Logo\DesignPatterns\AllInOneDesignPatterns\Behavioral\Mediator\obj\Debug\Mediator.Form1.resources
+C:\Users\turka\source\repos\Kurumsal\Logo\DesignPatterns\AllInOneDesignPatterns\Behavioral\Mediator\obj\Debug\Mediator.Properties.Resources.resources
+C:\Users\turka\source\repos\Kurumsal\Logo\DesignPatterns\AllInOneDesignPatterns\Behavioral\Mediator\obj\Debug\Mediator.csproj.GenerateResource.cache
+C:\Users\turka\source\repos\Kurumsal\Logo\DesignPatterns\AllInOneDesignPatterns\Behavioral\Mediator\obj\Debug\Mediator.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Logo\DesignPatterns\AllInOneDesignPatterns\Behavioral\Mediator\obj\Debug\Mediator.exe
+C:\Users\turka\source\repos\Kurumsal\Logo\DesignPatterns\AllInOneDesignPatterns\Behavioral\Mediator\obj\Debug\Mediator.pdb

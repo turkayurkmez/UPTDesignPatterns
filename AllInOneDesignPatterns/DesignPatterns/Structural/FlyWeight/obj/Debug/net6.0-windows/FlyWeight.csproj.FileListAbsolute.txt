@@ -1,0 +1,17 @@
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Structural\FlyWeight\bin\Debug\net6.0-windows\FlyWeight.exe
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Structural\FlyWeight\bin\Debug\net6.0-windows\FlyWeight.deps.json
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Structural\FlyWeight\bin\Debug\net6.0-windows\FlyWeight.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Structural\FlyWeight\bin\Debug\net6.0-windows\FlyWeight.dll
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Structural\FlyWeight\bin\Debug\net6.0-windows\FlyWeight.pdb
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Structural\FlyWeight\obj\Debug\net6.0-windows\FlyWeight.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Structural\FlyWeight\obj\Debug\net6.0-windows\FlyWeight.Form1.resources
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Structural\FlyWeight\obj\Debug\net6.0-windows\FlyWeight.csproj.GenerateResource.cache
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Structural\FlyWeight\obj\Debug\net6.0-windows\FlyWeight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Structural\FlyWeight\obj\Debug\net6.0-windows\FlyWeight.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Structural\FlyWeight\obj\Debug\net6.0-windows\FlyWeight.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Structural\FlyWeight\obj\Debug\net6.0-windows\FlyWeight.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Structural\FlyWeight\obj\Debug\net6.0-windows\FlyWeight.dll
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Structural\FlyWeight\obj\Debug\net6.0-windows\refint\FlyWeight.dll
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Structural\FlyWeight\obj\Debug\net6.0-windows\FlyWeight.pdb
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Structural\FlyWeight\obj\Debug\net6.0-windows\FlyWeight.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Structural\FlyWeight\obj\Debug\net6.0-windows\ref\FlyWeight.dll

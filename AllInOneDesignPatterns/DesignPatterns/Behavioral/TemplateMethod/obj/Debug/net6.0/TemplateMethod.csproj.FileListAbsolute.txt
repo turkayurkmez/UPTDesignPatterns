@@ -1,0 +1,15 @@
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Behavioral\TemplateMethod\bin\Debug\net6.0\TemplateMethod.exe
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Behavioral\TemplateMethod\bin\Debug\net6.0\TemplateMethod.deps.json
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Behavioral\TemplateMethod\bin\Debug\net6.0\TemplateMethod.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Behavioral\TemplateMethod\bin\Debug\net6.0\TemplateMethod.dll
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Behavioral\TemplateMethod\bin\Debug\net6.0\TemplateMethod.pdb
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Behavioral\TemplateMethod\obj\Debug\net6.0\TemplateMethod.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Behavioral\TemplateMethod\obj\Debug\net6.0\TemplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Behavioral\TemplateMethod\obj\Debug\net6.0\TemplateMethod.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Behavioral\TemplateMethod\obj\Debug\net6.0\TemplateMethod.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Behavioral\TemplateMethod\obj\Debug\net6.0\TemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Behavioral\TemplateMethod\obj\Debug\net6.0\TemplateMethod.dll
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Behavioral\TemplateMethod\obj\Debug\net6.0\refint\TemplateMethod.dll
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Behavioral\TemplateMethod\obj\Debug\net6.0\TemplateMethod.pdb
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Behavioral\TemplateMethod\obj\Debug\net6.0\TemplateMethod.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kurumsal\UPT\Design Patterns\AllInOneDesignPatterns\DesignPatterns\Behavioral\TemplateMethod\obj\Debug\net6.0\ref\TemplateMethod.dll
